@@ -4,7 +4,7 @@
 //
 //  Created by Gregory Ray on 3/22/17.
 //  Copyright © 2017 Udacity - Gregory Ray. All rights reserved.
-//
+//  References: Udacity "Pitch Perfect Course"
 
 import UIKit
 
@@ -13,9 +13,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        print("Hello Word!!")
+        //Debug test point
         return true
     }
 
